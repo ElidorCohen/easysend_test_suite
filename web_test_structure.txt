@@ -1,0 +1,22 @@
+Home page
+- Hero
+   - Departing
+   - Returning
+   - Adults
+   - Children
+   - Select
+- Destination
+   - Filters
+   - Destinations
+   - Load more
+- Checkout
+   - Form
+      - Details
+      - Image
+   - Summary
+      - Coupon
+      - Terms
+      - Total
+      - Pay now
+- Temperatures
+- Footer
